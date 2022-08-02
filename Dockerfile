@@ -12,3 +12,4 @@ CMD ["/usr/sbin/httpd", "-D",  "FOREGROUND"]
 EXPOSE 80
 
 GIT RESET
+GIT RESET2
